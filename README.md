@@ -114,18 +114,11 @@ Percentage: 84.33%
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
 📧 Email: nikamsiddharth562@gmail.com  
-💼 Linkedin: [!](https://www.linkedin.com/in/siddharth-nikam-67b20a271/)] 
+💼 Linkedin: [!](https://www.linkedin.com/in/siddharth-nikam-67b20a271/) 
 🐙 GitHub: [!](https://github.com/SiddharthNi) 
 
 ---
